@@ -1,5 +1,5 @@
 # ToolBox-ComputerVision
 
-Image Processing and Computer Vision Project Toolbox starter code
+Completed Image Processing and Computer Vision Project Toolbox code
 
-Instructions are on the [the toolbox page](https://sd2020spring.github.io/toolboxes/image-processing).
+Original instructions are on the [the toolbox page](https://sd2020spring.github.io/toolboxes/image-processing).
